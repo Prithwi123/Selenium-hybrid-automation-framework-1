@@ -12,7 +12,7 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 
 /**
- * @author Amrendra
+ * @author Prithwiraj Sarkar
  *
  */
 public class ScreenshotManager {

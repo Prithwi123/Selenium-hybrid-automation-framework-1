@@ -6,7 +6,7 @@ package com.pratian.automation.pageobjects;
 import org.openqa.selenium.WebDriver;
 
 /**
- * @author amarendra.kumar
+ * @author Prithwiraj Sarkar
  *
  */
 public class BasePage {

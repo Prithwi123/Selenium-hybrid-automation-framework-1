@@ -12,7 +12,7 @@ import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 
 /**
- * @author Amrendra
+ * @author Prithwiraj Sarkar
  *
  */
 public class ExcelManager {

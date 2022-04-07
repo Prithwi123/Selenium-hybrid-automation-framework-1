@@ -20,7 +20,7 @@ import com.aventstack.extentreports.markuputils.MarkupHelper;
 import com.pratian.automation.testclasses.BaseTest;
 
 /**
- * @author Amrendra
+ * @author Prithwiraj Sarkar
  *
  */
 public class Listeners implements ITestListener{

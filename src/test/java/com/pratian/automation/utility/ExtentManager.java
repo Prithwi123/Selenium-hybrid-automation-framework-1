@@ -11,7 +11,7 @@ import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 
 /**
- * @author Amrendra
+ * @author Prithwiraj Sarkar
  *
  */
 public class ExtentManager {

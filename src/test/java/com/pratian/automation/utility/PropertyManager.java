@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 /**
- * @author amarendra.kumar
+ * @author Prithwiraj Sarkar
  *
  */
 public class PropertyManager {

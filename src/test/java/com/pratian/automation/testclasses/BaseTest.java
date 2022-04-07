@@ -20,7 +20,7 @@ import com.pratian.automation.utility.PropertyManager;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 /**
- * @author amarendra.kumar
+ * @author Prithwiraj.Sarkar
  *
  */
 public class BaseTest {
